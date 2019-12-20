@@ -1,0 +1,61 @@
+@media only screen and (max-width:320px){
+    .strip{
+        font-size: 16px !important;
+    }
+    .sport{
+        font-size: 16px;
+    }
+    .hf{
+        font-size: 18px !important;
+    }
+    .hfo{
+        font-size: 18px !important;
+    }
+    .sone{
+        font-size: 18px !important;
+    }
+}
+
+@media only screen and (max-width:1024px){
+    .stock{
+        margin-top: 15px !important;
+    }
+    .school{
+        margin-top: 40px !important;
+    }
+    .clash{
+        margin-top: 15px !important;
+    }
+    .hf{
+        font-size: 18px !important;
+    }
+    .godo{
+        margin-top: 15px !important;
+    }
+    .changes{
+        margin-top: 30px !important;
+    }
+}
+@media only screen and (max-width:768px){
+    .godo{
+        margin-top: 35px !important;
+    }
+    .godos{
+        margin-top: 65px !important;
+    }
+    .stock{
+        margin-top: 15px !important;
+    }
+    .clash{
+        margin-top: 15px !important;
+    }
+    .school{
+        margin-top: 66px !important;
+    }
+    .sport{
+        font-size: 16px !important;
+    }
+    .changes{
+        margin-bottom: -25px !important;
+    }
+}
